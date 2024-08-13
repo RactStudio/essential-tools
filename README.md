@@ -2,7 +2,7 @@
 
 Effortlessly customize wp core features, and various technical components on your WordPress sites to streamline management.
 
-### This is a Module for '[Essential WP Tools](https://wordpress.org/plugins/essential-wp-tools/)' WordPress Plugin, and require installion of the core plugin.
+### This is a Module for '[Essential WP Tools](https://wordpress.org/plugins/essential-wp-tools/)' WordPress Plugin, and require installation of the core plugin.
 
 ## EWPT Website: **[Essential WP Tools](https://ewpt.ractstudio.com/)**
 ## WordPress.org: [Download on WordPress.org](https://wordpress.org/plugins/essential-wp-tools/)

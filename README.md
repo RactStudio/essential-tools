@@ -11,7 +11,7 @@ Effortlessly customize wp core features, and various technical components on you
 
 ## At a Glance
 
-* Contributors:		    @mhrubel
+* Contributors:		    @ractstudio
 * Donate link:			  https://www.patreon.com/RactStudio
 * Requires at least:  5.0 (WordPress Version)
 * Tested up to WP:		6.6 (WordPress Version) (Should work on the later version)
